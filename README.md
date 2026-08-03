@@ -45,7 +45,7 @@ Currently, I'm a **NASA Space Grant Research Fellow**, building predictive ML mo
 
 ## 💼 Professional Experience Summary
 
-* 📱 **AT&T / Verizon** — *Business Sales Solutions Specialist*
+* 📱 **AT&T / Verizon** — *Business Sales Solutions Specialist* (June 2023- Present)
   * Specialized in resolving complex hardware/software connectivity issues, managing enterprise accounts via Salesforce, and consistently outperforming sales targets by 40–50%.
 
 ## 📫 Connect with Me
