@@ -1,16 +1,55 @@
-## Hi there 👋
+# 🚀 Hey there, I'm Aashish Rawal!
 
-<!--
-**montyrawal7/montyrawal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aashishrawal)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aashishrawal05@gmail.com)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Computer Science & Information Security** student based in **Queens, New York**, driven by cloud architecture, machine learning, and cybersecurity. 
+
+Currently, I'm a **NASA Space Grant Research Fellow**, building predictive ML models and interactive dashboards to analyze sports performance data. When I'm not training machine learning algorithms, I'm architecting scalable solutions in AWS or honing my skills across cloud platforms and Linux environments!
+
+- 🎓 **Education:** Pursuing A.S. in Computer Science & Information Security at QCC (3.9 GPA, Dean's List)
+- 🌌 **Current Focus:** Machine Learning Pipelines, AWS Cloud Solutions, & Interactive Analytics Apps
+- 🏆 **Honors:** NASA Space Grant Fellow | Jackson & Muriel Lum Engineering Technology Award Recipient
+
+## 🛠️ Technical Skill Set
+
+### 💻 Languages & Frameworks
+`Python` • `C++` • `Scikit-Learn` • `Streamlit` • `SQLite`
+
+### ☁️ Cloud & Infrastructure
+`AWS Cloud` • `Google Cloud` • `Linux` • `macOS` • `Windows`
+
+### 🔧 Tools & Platforms
+`GitHub` • `VS Code` • `Salesforce` • `Visual Studio`
+
+## 📜 Certifications
+
+| Cloud & Architecture | Cybersecurity & Data | AI & Prompting |
+| :--- | :--- | :--- |
+| ☁️ **AWS** Solutions Architect – Associate | 🛡️ **Google** Cybersecurity Professional | 🤖 **Google** Prompting Essentials |
+| ⚙️ **AWS** SysOps Administrator – Associate | 📊 **Google** Data Analytics Specialization | ✨ **Google** AI Essentials |
+| 🛠️ **AWS** Developer – Associate | | |
+
+## 🔬 Featured Project & Research
+
+### ⚽ NASA Space Grant Machine Learning Pipeline
+> **Predictive Performance Analytics Model**
+* **Overview:** Designing and developing an end-to-end predictive machine learning pipeline analyzing multi-modal data for **19,000+ European soccer players**.
+* **Tech Stack:** `Python`, `Scikit-Learn`, `SQLite`, `Streamlit`
+* **Key Features:** 
+  * Position-specific regression and classification modeling.
+  * Interactive Streamlit dashboard comparing localized metrics against global performance benchmarks.
+
+## 💼 Professional Experience Summary
+
+* 📱 **AT&T / Verizon** — *Business Sales Solutions Specialist*
+  * Specialized in resolving complex hardware/software connectivity issues, managing enterprise accounts via Salesforce, and consistently outperforming sales targets by 40–50%.
+
+## 📫 Connect with Me
+
+- 📍 **Location:** Queens, NY
+- 📧 **Email:** [aashishrawal05@gmail.com](mailto:aashishrawal05@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/aashishrawal](https://linkedin.com)
