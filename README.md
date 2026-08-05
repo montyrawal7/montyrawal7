@@ -10,10 +10,6 @@ I'm a **Computer Science & Information Security** student based in **Queens, New
 
 Currently, I'm a **NASA Space Grant Research Fellow**, building predictive ML models and interactive dashboards to analyze sports performance data. When I'm not training machine learning algorithms, I'm architecting scalable solutions in AWS or honing my skills across cloud platforms and Linux environments!
 
-- 🎓 **Education:** Pursuing A.S. in Computer Science & Information Security at QCC (3.9 GPA, Dean's List)
-- 🌌 **Current Focus:** Machine Learning Pipelines, AWS Cloud Solutions, & Interactive Analytics Apps
-- 🏆 **Honors:** NASA Space Grant Fellow | Jackson & Muriel Lum Engineering Technology Award Recipient
-
 ## 🛠️ Technical Skill Set
 
 ### 💻 Languages & Frameworks
