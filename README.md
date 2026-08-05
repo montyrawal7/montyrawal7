@@ -25,14 +25,6 @@ Currently, I'm a **NASA Space Grant Research Fellow**, building predictive ML mo
 ### 🔧 Tools & Platforms
 `GitHub` • `VS Code` • `Salesforce` • `Visual Studio`
 
-## 📜 Certifications
-
-| Cloud & Architecture | Cybersecurity & Data | AI & Prompting |
-| :--- | :--- | :--- |
-| ☁️ **AWS** Solutions Architect – Associate | 🛡️ **Google** Cybersecurity Professional | 🤖 **Google** Prompting Essentials |
-| ⚙️ **AWS** SysOps Administrator – Associate | 📊 **Google** Data Analytics Specialization | ✨ **Google** AI Essentials |
-| 🛠️ **AWS** Developer – Associate | | |
-
 ## 🔬 Featured Project & Research
 
 ### ⚽ NASA Space Grant Machine Learning Pipeline
@@ -42,11 +34,6 @@ Currently, I'm a **NASA Space Grant Research Fellow**, building predictive ML mo
 * **Key Features:** 
   * Position-specific regression and classification modeling.
   * Interactive Streamlit dashboard comparing localized metrics against global performance benchmarks.
-
-## 💼 Professional Experience Summary
-
-* 📱 **AT&T / Verizon** — *Business Sales Solutions Specialist* ( June 2023- Present)
-  * Specialized in resolving complex hardware/software connectivity issues, managing enterprise accounts via Salesforce, and consistently outperforming sales targets by 40–50%.
 
 ## 📫 Connect with Me
 
