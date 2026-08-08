@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Computer Science & Information Security** student driven by cloud architecture, machine learning, and cybersecurity. 
+I'm a **Computer Science & Information Security** student interested in cloud architecture, machine learning, and cybersecurity. 
 
 Currently, I'm a **NASA Space Grant Research Fellow**, building predictive ML models and interactive dashboards to analyze sports performance data. When I'm not training machine learning algorithms, I'm architecting scalable solutions in AWS or honing my skills across cloud platforms and Linux environments!
 
